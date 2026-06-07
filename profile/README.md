@@ -2,6 +2,10 @@
 
 Full-stack projects across **e-commerce**, **real estate**, **social media**, **operations / DevOps**, **AI**, **education**, and a **personal website** — built with Python, Go, Node.js, TypeScript, and .NET, plus React, Vue, Angular, and Blazor frontends.
 
+> This file is ready to use as the GitHub **organization profile** for
+> [github.com/SuryaPSingh-Projects-Portfolio](https://github.com/SuryaPSingh-Projects-Portfolio).
+> See [Publish this as your shareable link](#publish-this-as-your-shareable-link) at the bottom.
+
 ---
 
 ## Featured projects
@@ -9,7 +13,7 @@ Full-stack projects across **e-commerce**, **real estate**, **social media**, **
 | Project | Purpose | Tech stack | Repository |
 |---------|---------|------------|------------|
 | **E-Commerce — Shopping** | Product catalog, cart, and Stripe Checkout with webhook-driven order processing. One API powers React, Vue, and Angular frontends. | Python, Django REST, Stripe; React / Vue / Angular | [E-Commerce](https://github.com/SuryaPSingh-Projects-Portfolio/E-Commerce) |
-| **Real Estate — RealtyAI** | Schema-driven listings platform (properties, jobs, cars, …) with public browse, search, admin approval, and lister accounts. | Django, Angular, OpenAPI / Swagger, Docker | [RealEstate](https://github.com/SuryaPSingh-Projects-Portfolio/RealEstate) |
+| **Real Estate — Listing RealEstate** | Schema-driven listings platform (properties, jobs, cars, …) with public browse, search, admin approval, and lister accounts. | Django, Angular, OpenAPI / Swagger, Docker | [ListingPlatform](https://github.com/SuryaPSingh-Projects-Portfolio/ListingPlatform) |
 | **Social Media — MyWorld** | Social platform with JWT auth, live feed (GraphQL subscriptions), profiles, posts, likes, comments, friend connections, groups, and marketplace. | Node.js, Express, **Apollo Server (GraphQL)**, React (Vite), **Apollo Client**, PostgreSQL, WebSockets | [SocialMedia](https://github.com/SuryaPSingh-Projects-Portfolio/SocialMedia) (app in `MyWorld/`) |
 | **Operations — Sentryx** | Third-party API monitoring: uptime, latency, and error tracking for external services from one dashboard. | Go (`chi`), React, TypeScript, Vite, PostgreSQL / SQLite, Docker | [Operations](https://github.com/SuryaPSingh-Projects-Portfolio/Operations) |
 
@@ -33,7 +37,7 @@ Each repository contains its own detailed README with setup and run instructions
 ```
 Projects-Portfolio/
 ├── E-Commerce/       → Shopping (Django + multi-frontend)
-├── RealEstate/       → RealtyAI
+├── ListingPlatform/  → Listing RealEstate (schema-driven listings)
 ├── SocialMedia/      → MyWorld
 ├── Operations/       → Sentryx
 ├── PersonalWebsite/  → Blazor personal site
@@ -81,6 +85,19 @@ Demo login: `john@example.com` / `password123`
 
 - **GitHub:** [SuryaPSingh-Projects-Portfolio](https://github.com/SuryaPSingh-Projects-Portfolio)
 - **LinkedIn:** [linkedin.com/in/suryapsingh1979](https://www.linkedin.com/in/suryapsingh1979/)
+
+---
+
+## Publish this as your shareable link
+
+To make `github.com/SuryaPSingh-Projects-Portfolio` show this page:
+
+1. In the org, create a **public** repository named exactly `.github`.
+2. Add this file at the path `profile/README.md` inside it.
+3. Commit and push — GitHub renders it on the org landing page automatically.
+
+> **Important:** project repos must be **Public** for recruiters and tech leads to browse code.
+> For each repo: **Settings → General → Danger Zone → Change visibility → Public**.
 
 ---
 
