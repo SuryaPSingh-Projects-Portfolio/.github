@@ -13,7 +13,7 @@ Full-stack projects across **e-commerce**, **real estate**, **social media**, **
 | Project | Purpose | Tech stack | Repository |
 |---------|---------|------------|------------|
 | **E-Commerce — Shopping** | Product catalog, cart, and Stripe Checkout with webhook-driven order processing. One API powers React, Vue, and Angular frontends. | Python, Django REST, Stripe; React / Vue / Angular | [E-Commerce](https://github.com/SuryaPSingh-Projects-Portfolio/E-Commerce) |
-| **Real Estate — Listing RealEstate** | Schema-driven listings platform (properties, jobs, cars, …) with public browse, search, admin approval, and lister accounts. | Django, Angular, OpenAPI / Swagger, Docker | [ListingPlatform](https://github.com/SuryaPSingh-Projects-Portfolio/ListingPlatform) |
+| **Listing Platform — Listing-RealEstate** | Schema-driven listings platform (properties, jobs, cars, …) with public browse, search, admin approval, and lister accounts. | Django, Angular, OpenAPI / Swagger, Docker | [ListingPlatform](https://github.com/SuryaPSingh-Projects-Portfolio/ListingPlatform) |
 | **Social Media — MyWorld** | Social platform with JWT auth, live feed (GraphQL subscriptions), profiles, posts, likes, comments, friend connections, groups, and marketplace. | Node.js, Express, **Apollo Server (GraphQL)**, React (Vite), **Apollo Client**, PostgreSQL, WebSockets | [SocialMedia](https://github.com/SuryaPSingh-Projects-Portfolio/SocialMedia) (app in `MyWorld/`) |
 | **Operations — Sentryx** | Third-party API monitoring: uptime, latency, and error tracking for external services from one dashboard. | Go (`chi`), React, TypeScript, Vite, PostgreSQL / SQLite, Docker | [Operations](https://github.com/SuryaPSingh-Projects-Portfolio/Operations) |
 
@@ -37,7 +37,7 @@ Each repository contains its own detailed README with setup and run instructions
 ```
 Projects-Portfolio/
 ├── E-Commerce/       → Shopping (Django + multi-frontend)
-├── ListingPlatform/  → Listing RealEstate (schema-driven listings)
+├── ListingPlatform/  → Listing-RealEstate (schema-driven listings)
 ├── SocialMedia/      → MyWorld
 ├── Operations/       → Sentryx
 ├── PersonalWebsite/  → Blazor personal site
