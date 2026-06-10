@@ -4,10 +4,6 @@ Full-stack projects across **e-commerce**, **real estate**, **social media**, **
 
 > **Disclaimer:** These projects showcase my personal work — a playground for experimenting with open-source and new technology stacks, often with AI-augmented development. The goal is hands-on learning, not production polish; some areas may be incomplete or imperfect, and I update repos as I learn and experiment. Architecture, implementation, and review remain mine.
 
-> This file is ready to use as the GitHub **organization profile** for
-> [github.com/SuryaPSingh-Projects-Portfolio](https://github.com/SuryaPSingh-Projects-Portfolio).
-> See [Publish this as your shareable link](#publish-this-as-your-shareable-link) at the bottom.
-
 ---
 
 ## Projects
