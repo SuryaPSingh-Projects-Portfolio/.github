@@ -8,41 +8,18 @@ Full-stack projects across **e-commerce**, **real estate**, **social media**, **
 
 ---
 
-## Featured projects
+## Projects
 
 | Project | Purpose | Tech stack | Repository |
 |---------|---------|------------|------------|
 | **E-Commerce — Shopping** | Product catalog, cart, and Stripe Checkout with webhook-driven order processing. One API powers React, Vue, and Angular frontends. | Python, Django REST, Stripe; React / Vue / Angular | [E-Commerce](https://github.com/SuryaPSingh-Projects-Portfolio/E-Commerce) |
 | **Listing Platform — Listing-RealEstate** | Schema-driven listings platform (properties, jobs, cars, …) with public browse, search, admin approval, and lister accounts. | Django, Angular, OpenAPI / Swagger, Docker | [ListingPlatform](https://github.com/SuryaPSingh-Projects-Portfolio/ListingPlatform) |
-| **Social Media — MyWorld** | Social platform with JWT auth, live feed (GraphQL subscriptions), profiles, posts, likes, comments, friend connections, groups, and marketplace. | Node.js, Express, **Apollo Server (GraphQL)**, React (Vite), **Apollo Client**, PostgreSQL, WebSockets | [SocialMedia](https://github.com/SuryaPSingh-Projects-Portfolio/SocialMedia) (app in `MyWorld/`) |
+| **Social Media — MyWorld** | Social platform with JWT auth, live feed (GraphQL subscriptions), profiles, posts, likes, comments, friend connections, groups, and marketplace. | Node.js, Express, **Apollo Server (GraphQL)**, React (Vite), **Apollo Client**, PostgreSQL, WebSockets | [SocialMedia](https://github.com/SuryaPSingh-Projects-Portfolio/SocialMedia) (`MyWorld/`) |
 | **Operations — Sentryx** | Third-party API monitoring: uptime, latency, and error tracking for external services from one dashboard. | Go (`chi`), React, TypeScript, Vite, PostgreSQL / SQLite, Docker | [Operations](https://github.com/SuryaPSingh-Projects-Portfolio/Operations) |
-
-Each repository contains its own detailed README with setup and run instructions.
-
----
-
-## More projects
-
-Public repositories only.
-
-| Project | Purpose | Tech stack | Location |
-|---------|---------|------------|----------|
-| **Healthcare — Appointments** | Multi-tenant appointment scheduling: register apps by code, manage providers and bookings; generic attendee IDs for any consumer system. | FastAPI, SQLAlchemy, PostgreSQL; React + Vite | [Healthcare](https://github.com/SuryaPSingh-Projects-Portfolio/Healthcare) (`Appointments/`) |
+| **Healthcare — Appointments** | Multi-tenant appointment scheduling: register apps by code, manage providers and bookings. | FastAPI, SQLAlchemy, PostgreSQL; React + Vite | [Healthcare](https://github.com/SuryaPSingh-Projects-Portfolio/Healthcare) (`Appointments/`) |
 | **Education — QuizMaster** | Interactive browser quizzes (C#, SQL, Python, Docker, AI, …) with timer, scoring, and explanations. | HTML, CSS, JavaScript | [Education](https://github.com/SuryaPSingh-Projects-Portfolio/Education) (`QuizMaster/`) |
-| **Education — OnlineTestAI** *(WIP)* | Online testing platform scaffold — EF Core models and Blazor shell; controllers and test UI not finished. | ASP.NET Core 9, EF Core, PostgreSQL | [Education](https://github.com/SuryaPSingh-Projects-Portfolio/Education) (`TestAI/`) |
 
----
-
-## Repositories on GitHub
-
-```
-E-Commerce/       → Shopping (Django + multi-frontend)
-ListingPlatform/  → Listing-RealEstate (schema-driven listings)
-SocialMedia/      → MyWorld
-Operations/       → Sentryx
-Healthcare/       → Appointments (FastAPI + React)
-Education/        → QuizMaster; OnlineTestAI (WIP)
-```
+Each repository includes a README with setup and run instructions.
 
 ---
 
