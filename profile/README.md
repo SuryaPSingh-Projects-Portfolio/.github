@@ -1,6 +1,6 @@
 # Surya P. Singh — Projects Portfolio
 
-Full-stack projects across **e-commerce**, **real estate**, **social media**, **operations / DevOps**, **AI**, **education**, and a **personal website** — built with Python, Go, Node.js, TypeScript, and .NET, plus React, Vue, Angular, and Blazor frontends.
+Full-stack projects across **e-commerce**, **real estate**, **social media**, **operations / DevOps**, **healthcare**, **AI**, **education**, and a **personal website** — built with Python, Go, Node.js, TypeScript, and .NET, plus React, Vue, Angular, and Blazor frontends.
 
 > This file is ready to use as the GitHub **organization profile** for
 > [github.com/SuryaPSingh-Projects-Portfolio](https://github.com/SuryaPSingh-Projects-Portfolio).
@@ -27,6 +27,7 @@ Each repository contains its own detailed README with setup and run instructions
 |---------|---------|------------|----------|
 | **Personal Website** | Professional site with CMS admin, blog, skills, projects, and contact form. | ASP.NET Core 9, Blazor Server, EF Core, SQLite | [PersonalWebsite](https://github.com/SuryaPSingh-Projects-Portfolio/PersonalWebsite) |
 | **AI — Codebrain** | Local code Q&A assistant: index a repo, semantic search with Ollama embeddings, conversational RAG, Blazor chat UI. Agent persona: **Aristotle**. | .NET 9, Blazor Server, Semantic Kernel, PostgreSQL | [AI](https://github.com/SuryaPSingh-Projects-Portfolio/AI) (`AI_Agent_Codebrain/`) |
+| **Healthcare — Appointments** | Multi-tenant appointment scheduling: register apps by code, manage providers and bookings; generic attendee IDs for any consumer system. | FastAPI, SQLAlchemy, PostgreSQL; React + Vite | [Healthcare](https://github.com/SuryaPSingh-Projects-Portfolio/Healthcare) (`Appointments/`) |
 | **Education — QuizMaster** | Interactive browser quizzes (C#, SQL, Python, Docker, AI, …) with timer, scoring, and explanations. | HTML, CSS, JavaScript | [Education](https://github.com/SuryaPSingh-Projects-Portfolio/Education) (`QuizMaster/`) |
 | **Education — OnlineTestAI** *(WIP)* | Online testing platform scaffold — EF Core models and Blazor shell; controllers and test UI not finished. | ASP.NET Core 9, EF Core, PostgreSQL | [Education](https://github.com/SuryaPSingh-Projects-Portfolio/Education) (`TestAI/`) |
 
@@ -42,6 +43,7 @@ Projects-Portfolio/
 ├── Operations/       → Sentryx
 ├── PersonalWebsite/  → Blazor personal site
 ├── AI/               → AI Agent Codebrain (agent name: Aristotle)
+├── Healthcare/       → Appointments (FastAPI + React)
 └── Education/        → QuizMaster; OnlineTestAI (WIP)
 ```
 
@@ -49,7 +51,7 @@ Projects-Portfolio/
 
 ## Skills demonstrated
 
-- **Backend / APIs:** Django REST, Express, Go (`chi`), ASP.NET Core
+- **Backend / APIs:** Django REST, FastAPI, Express, Go (`chi`), ASP.NET Core
 - **GraphQL:** Apollo Server, Apollo Client, subscriptions (WebSockets), schema + resolvers
 - **Frontends:** React, Vue, Angular, Blazor Server
 - **Data:** PostgreSQL, SQLite, EF Core migrations, raw SQL schemas
