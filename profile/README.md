@@ -1,6 +1,6 @@
 # Surya P. Singh — Projects Portfolio
 
-Full-stack projects across **e-commerce**, **real estate**, **social media**, **operations / DevOps**, **healthcare**, **AI**, **education**, and a **personal website** — built with Python, Go, Node.js, TypeScript, and .NET, plus React, Vue, Angular, and Blazor frontends.
+Full-stack projects across **e-commerce**, **real estate**, **social media**, **operations / DevOps**, **healthcare**, and **education** — built with Python, Go, Node.js, TypeScript, and .NET, plus React, Vue, Angular, and Blazor frontends.
 
 > This file is ready to use as the GitHub **organization profile** for
 > [github.com/SuryaPSingh-Projects-Portfolio](https://github.com/SuryaPSingh-Projects-Portfolio).
@@ -23,28 +23,25 @@ Each repository contains its own detailed README with setup and run instructions
 
 ## More projects
 
+Public repositories only.
+
 | Project | Purpose | Tech stack | Location |
 |---------|---------|------------|----------|
-| **Personal Website** | Professional site with CMS admin, blog, skills, projects, and contact form. | ASP.NET Core 9, Blazor Server, EF Core, SQLite | [PersonalWebsite](https://github.com/SuryaPSingh-Projects-Portfolio/PersonalWebsite) |
-| **AI — Codebrain** | Local code Q&A assistant: index a repo, semantic search with Ollama embeddings, conversational RAG, Blazor chat UI. Agent persona: **Aristotle**. | .NET 9, Blazor Server, Semantic Kernel, PostgreSQL | [AI](https://github.com/SuryaPSingh-Projects-Portfolio/AI) (`AI_Agent_Codebrain/`) |
 | **Healthcare — Appointments** | Multi-tenant appointment scheduling: register apps by code, manage providers and bookings; generic attendee IDs for any consumer system. | FastAPI, SQLAlchemy, PostgreSQL; React + Vite | [Healthcare](https://github.com/SuryaPSingh-Projects-Portfolio/Healthcare) (`Appointments/`) |
 | **Education — QuizMaster** | Interactive browser quizzes (C#, SQL, Python, Docker, AI, …) with timer, scoring, and explanations. | HTML, CSS, JavaScript | [Education](https://github.com/SuryaPSingh-Projects-Portfolio/Education) (`QuizMaster/`) |
 | **Education — OnlineTestAI** *(WIP)* | Online testing platform scaffold — EF Core models and Blazor shell; controllers and test UI not finished. | ASP.NET Core 9, EF Core, PostgreSQL | [Education](https://github.com/SuryaPSingh-Projects-Portfolio/Education) (`TestAI/`) |
 
 ---
 
-## Local folder layout
+## Repositories on GitHub
 
 ```
-Projects-Portfolio/
-├── E-Commerce/       → Shopping (Django + multi-frontend)
-├── ListingPlatform/  → Listing-RealEstate (schema-driven listings)
-├── SocialMedia/      → MyWorld
-├── Operations/       → Sentryx
-├── PersonalWebsite/  → Blazor personal site
-├── AI/               → AI Agent Codebrain (agent name: Aristotle)
-├── Healthcare/       → Appointments (FastAPI + React)
-└── Education/        → QuizMaster; OnlineTestAI (WIP)
+E-Commerce/       → Shopping (Django + multi-frontend)
+ListingPlatform/  → Listing-RealEstate (schema-driven listings)
+SocialMedia/      → MyWorld
+Operations/       → Sentryx
+Healthcare/       → Appointments (FastAPI + React)
+Education/        → QuizMaster; OnlineTestAI (WIP)
 ```
 
 ---
