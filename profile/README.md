@@ -1,6 +1,6 @@
 # Surya P. Singh — Projects Portfolio
 
-Full-stack projects across **e-commerce**, **real estate**, **social media**, **operations / DevOps**, **healthcare**, and **education** — built with Python, Go, Node.js, TypeScript, and .NET, plus React, Vue, Angular, and Blazor frontends.
+Full-stack projects across **e-commerce**, **real estate**, **social media**, **operations / DevOps**, **AI**, **healthcare**, and **education** — built with Python, Go, Node.js, TypeScript, and .NET, plus React, Vue, Angular, and Blazor frontends.
 
 > This file is ready to use as the GitHub **organization profile** for
 > [github.com/SuryaPSingh-Projects-Portfolio](https://github.com/SuryaPSingh-Projects-Portfolio).
@@ -16,6 +16,7 @@ Full-stack projects across **e-commerce**, **real estate**, **social media**, **
 | **Listing Platform — Listing-RealEstate** | Schema-driven listings platform (properties, jobs, cars, …) with public browse, search, admin approval, and lister accounts. | Django, Angular, OpenAPI / Swagger, Docker | [ListingPlatform](https://github.com/SuryaPSingh-Projects-Portfolio/ListingPlatform) |
 | **Social Media — MyWorld** | Social platform with JWT auth, live feed (GraphQL subscriptions), profiles, posts, likes, comments, friend connections, groups, and marketplace. | Node.js, Express, **Apollo Server (GraphQL)**, React (Vite), **Apollo Client**, PostgreSQL, WebSockets | [SocialMedia](https://github.com/SuryaPSingh-Projects-Portfolio/SocialMedia) (`MyWorld/`) |
 | **Operations — Sentryx** | Third-party API monitoring: uptime, latency, and error tracking for external services from one dashboard. | Go (`chi`), React, TypeScript, Vite, PostgreSQL / SQLite, Docker | [Operations](https://github.com/SuryaPSingh-Projects-Portfolio/Operations) |
+| **AI — Codebrain** | Local code Q&A assistant: semantic search with Ollama embeddings, conversational RAG, Blazor chat UI. Agent persona: **Aristotle**. | .NET 9, Blazor Server, Semantic Kernel, PostgreSQL | [AI](https://github.com/SuryaPSingh-Projects-Portfolio/AI) (`AI_Agent_Codebrain/`) |
 | **Healthcare — Appointments** | Multi-tenant appointment scheduling: register apps by code, manage providers and bookings. | FastAPI, SQLAlchemy, PostgreSQL; React + Vite | [Healthcare](https://github.com/SuryaPSingh-Projects-Portfolio/Healthcare) (`Appointments/`) |
 | **Education — QuizMaster** | Interactive browser quizzes (C#, SQL, Python, Docker, AI, …) with timer, scoring, and explanations. | HTML, CSS, JavaScript | [Education](https://github.com/SuryaPSingh-Projects-Portfolio/Education) (`QuizMaster/`) |
 
