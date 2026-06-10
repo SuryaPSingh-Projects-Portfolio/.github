@@ -26,9 +26,9 @@ Each repository contains its own detailed README with setup and run instructions
 | Project | Purpose | Tech stack | Location |
 |---------|---------|------------|----------|
 | **Personal Website** | Professional site with CMS admin, blog, skills, projects, and contact form. | ASP.NET Core 9, Blazor Server, EF Core, SQLite | [PersonalWebsite](https://github.com/SuryaPSingh-Projects-Portfolio/PersonalWebsite) |
-| **AI — Cortex** | Local code Q&A assistant: index a repo, semantic search with Ollama embeddings, answers with file references. | .NET 9, Blazor Server, Semantic Kernel, PostgreSQL | [AI](https://github.com/SuryaPSingh-Projects-Portfolio/AI) (`AI_Agent_Cortex/`) |
+| **AI — Codebrain** | Local code Q&A assistant: index a repo, semantic search with Ollama embeddings, conversational RAG, Blazor chat UI. Agent persona: **Aristotle**. | .NET 9, Blazor Server, Semantic Kernel, PostgreSQL | [AI](https://github.com/SuryaPSingh-Projects-Portfolio/AI) (`AI_Agent_Codebrain/`) |
 | **Education — QuizMaster** | Interactive browser quizzes (C#, SQL, Python, Docker, AI, …) with timer, scoring, and explanations. | HTML, CSS, JavaScript | [Education](https://github.com/SuryaPSingh-Projects-Portfolio/Education) (`QuizMaster/`) |
-| **Education — OnlineTestAI** | Online testing platform API and Blazor web UI. | ASP.NET Core 9, EF Core, PostgreSQL, Swagger | [Education](https://github.com/SuryaPSingh-Projects-Portfolio/Education) (`TestAI/`) |
+| **Education — OnlineTestAI** *(WIP)* | Online testing platform scaffold — EF Core models and Blazor shell; controllers and test UI not finished. | ASP.NET Core 9, EF Core, PostgreSQL | [Education](https://github.com/SuryaPSingh-Projects-Portfolio/Education) (`TestAI/`) |
 
 ---
 
@@ -41,8 +41,8 @@ Projects-Portfolio/
 ├── SocialMedia/      → MyWorld
 ├── Operations/       → Sentryx
 ├── PersonalWebsite/  → Blazor personal site
-├── AI/               → AI Agent Cortex
-└── Education/        → QuizMaster, OnlineTestAI
+├── AI/               → AI Agent Codebrain (agent name: Aristotle)
+└── Education/        → QuizMaster; OnlineTestAI (WIP)
 ```
 
 ---
